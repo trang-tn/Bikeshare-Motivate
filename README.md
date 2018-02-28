@@ -18,4 +18,4 @@ To inform customer decisions, I explored:
 - The opimal duration to use the bikes
 - What day or what month or what season they would want to use the bikes
 
-Please refer to Trang_Nguyen_Bike_Share_Analysis.ipynb for the code. 
+Please refer to `Trang_Nguyen_Bike_Share_Analysis.ipynb` for the code. 
